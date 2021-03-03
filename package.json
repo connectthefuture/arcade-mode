@@ -107,7 +107,7 @@
     "mongoose": "^4.10.7",
     "morgan": "^1.8.1",
     "prop-types": "^15.5.8",
-    "pug": "^2.0.0-rc.2",
+    "pug": "^3.0.1",
     "react": "^15.6.1",
     "react-bootstrap": "^0.31.0",
     "react-codemirror": "^0.3.0",
